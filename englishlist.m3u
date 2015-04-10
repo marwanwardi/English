@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1,Updated 9April
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
+#EXTINF:1,National Geographic
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
+#EXTINF:-1, National Geographic Wild
+http://185.5.40.101/hls/session-37473uCyyxurSfw/CH_NATGEOWILD/variant.m3u8?version=2
