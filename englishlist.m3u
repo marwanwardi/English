@@ -1,40 +1,39 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:1,Updated 9April
+#EXTINF:1,Updated 14April
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
 #EXTINF:1,National Geographic
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
 #EXTINF:-1, National Geographic Wild
 http://185.5.40.101/hls/session-37473uCyyxurSfw/CH_NATGEOWILD/variant.m3u8?version=2
 
-TRT HD,
+#EXTINF:-1,TRT HD,
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8?sd=10&rebase=on
-TRT1 HD,
+#EXTINF:-1,TRT1 HD,
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-TRT HABER HD,
+#EXTINF:-1,TRT HABER HD,
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-KANALD HD,
+#EXTINF:-1,KANALD HD,
 http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
-STAR TV,
+#EXTINF:-1,STAR TV,
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8?seyirturk=fb:simpletvipadresleri3
-SHOW TV,
+#EXTINF:-1,SHOW TV,
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/showtv/showtv/showtv.m3u8?seyirturk=fb:simpletvipadresleri3
-ATV HD,
+#EXTINF:-1,ATV HD,
 http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8      
-FOX TV,
+#EXTINF:-1,FOX TV,
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8?seyirturk=fb:simpletvipadresleri3
-TV8,
+#EXTINF:-1,TV8,
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/tv8/tv8/tv8.m3u8?seyirturk=fb:simpletvipadresleri3
-TV2 HD,
+#EXTINF:-1,TV2 HD,
 http://212.224.108.80/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 KANAL7 HD,http://bit.do/kanal7hd
-BEYAZ TV,
+#EXTINF:-1,BEYAZ TV,
 http://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1/playlist.m3u8
-SAMANYOLU AVR,
+#EXTINF:-1,SAMANYOLU AVR,
 rtsp://188.138.9.210:5544/samanyolu-avrupa-350k
-KANAL TURK,
+#EXTINF:-1,KANAL TURK,
 http://hls01-08.az.myvideo.az/hls-live/livepkgr/kanalturk/kanalturk/kanalturk.m3u8?seyirturk=fb:simpletvipadresleri3
-SAMANYOLU AV,
+#EXTINF:-1,SAMANYOLU AV,
 http://87.116.166.195:8107_360p
 NTV,
 http://hls01-08.az.myvideo.az/hls-live/livepkgr/canlintv/canlintv/canlintv.m3u8?seyirturk=fb:simpletvipadresleri3
